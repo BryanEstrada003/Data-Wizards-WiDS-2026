@@ -7,8 +7,7 @@
 **Aliado del reto:** [Watch Duty](https://www.watchduty.org/) — organización sin fines de lucro que entrega
 alertas hiperlocales en tiempo real durante incendios forestales.
 
-Este repositorio es la **plantilla base** de cada equipo. Trabajen sobre él, hagan commits frecuentes y
-entreguen el **link del repo + el commit hash final** antes del cierre.
+Base de datos: https://raw.githubusercontent.com/WiDS-Datathon/WiDS-Datathon-Base-Data/refs/heads/main/WiDSWorldWide_GlobalDathon26.zip, descargue y guarde en la carpeta data/
 
 ---
 
